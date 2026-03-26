@@ -1,4 +1,5 @@
-## Español:
+## Presentación / Presentation
+Español:
 Hola, mi nombre es Tomás y actualmente estoy estudiando en la UTEC (universidad tecnológica del Uruguay) una licenciatura en tecnologías de la información. Estoy en mi primer semestre y el mundo de la programación es nuevo para mi, así que todavía estoy aprendiendo de a poco como poder adentrarme en este extenso mundo.
 
 - 🌱 Estoy aprendiendo lo básico de programación
