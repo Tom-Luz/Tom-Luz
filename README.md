@@ -13,4 +13,4 @@ Heya, my name is Tomás and I'm currently studying at UTEC (technological univer
 - 🌱 I'm learing the basics of coding
 - 🤔 Any help is appreciated
 - 📫 My mail: funesto.tom.luz@gmail.com
-- ⚡ About me: Videogames are my biggest hobby, followed by the gym and reading
+- ⚡ About me: Videogames is my biggest hobby, followed by exercise and reading
